@@ -8,4 +8,4 @@
 
 -I am from Argentina 🇦🇷 🧉.
 
--I know how to use: Javascript, Html, Css, Python, Node, Express, MongoDB 🖥.
+-I know how to use: Javascript, Html, Css, Python, Node, Express, Bootstrap, MongoDB 🖥.
