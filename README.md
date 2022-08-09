@@ -2,7 +2,7 @@
   
 -My name is Alejo 😀.
 
--21 years old 🥳.
+-22 years old 🥳.
 
 -I am a full stack developer 💻.
 
