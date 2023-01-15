@@ -1,5 +1,5 @@
 # 🧉 About Me:
-01001000 01100101 01101100 01101100 01101111 00100000 01100101 01110110 01100101 01110010 01111001 01100010 01101111 01100100 01111001!!<br><br>-My name is Alejo 😀.<br><br>-22 years old 🥳.<br><br>-I am a full stack developer 💻.<br><br>-I am from Argentina 🇦🇷 🧉.<br><br>-I know how to use: Javascript, Html, Css, Python, Node, Express, Bootstrap, MongoDB 🖥.
+01001000 01100101 01101100 01101100 01101111 00100000 01100101 01110110 01100101 01110010 01111001 01100010 01101111 01100100 01111001!!<br><br>-My name is Alejo 😀.<br><br>-22 years old 🥳.<br><br>-I am a full stack developer 💻.<br><br>-I am from Argentina 🇦🇷 🧉.<br><br>
 
 
 # 💻 Tech Stack:
